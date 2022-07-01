@@ -9,4 +9,12 @@ Once all the data is entered you can hit the green button to start the robot.
 
 The .pdf receipts will be zipped and stored in the Output folder.
 
+The two links that are to be used for this robot are as follows:
+
+CSV Link: 
+    https://robotsparebinindustries.com/orders.csv
+    
+Order Form Link:
+    https://robotsparebinindustries.com/#/robot-order
+
 Brent Levings
