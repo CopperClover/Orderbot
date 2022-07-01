@@ -3,7 +3,6 @@
 import sys
 import subprocess
 import os
-from tkinter import messagebox
 
 # Install Required Modules
 
@@ -21,6 +20,7 @@ from selenium.webdriver.support.ui import Select
 
 from tkinter import *
 from tkinter.ttk import Combobox
+from tkinter import messagebox
 
 import pandas as pd
 
