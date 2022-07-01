@@ -16,5 +16,7 @@ CSV Link:
     
 Order Form Link:
     https://robotsparebinindustries.com/#/robot-order
+    
+The neccessary dependencies are provided in the "requirements.txt" file. To add these to the projects, simply run "pip install -r requirements.txt" in the command line to automatically add this.
 
 Brent Levings
